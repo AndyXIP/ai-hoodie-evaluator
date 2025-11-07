@@ -9,8 +9,6 @@
 
 An MSc dissertation project investigating human preferences between original marketplace hoodie designs and AI-generated alternatives using fine-tuned Stable Diffusion models. The platform collects voting data to analyze patterns in design aesthetics and user preferences.
 
-**Demo (Archived):** https://msc-project-nu.vercel.app
-
 ---
 
 ## Table of Contents
